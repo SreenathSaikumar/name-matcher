@@ -1,0 +1,201 @@
+id,name_a,name_b,label,category,source,ambiguous,split,score_token_jw,score_indic_phonetic,score_jev,band_token_jw,band_indic_phonetic,band_jev,band_cascade
+p0001,S. Kumar,Suresh Kumar,match,initials,synthetic,no,train,0.9099999999999999,0.9,0.76,review,review,review,review
+p0002,R. K. Sharma,Ravi Kumar Sharma,match,initials,synthetic,no,train,0.8799999999999999,0.8666666666666667,0.84,review,review,review,review
+p0003,A. Patel,Amit Patel,match,initials,synthetic,no,train,0.9099999999999999,0.9,0.8,review,review,review,review
+p0004,P. N. Reddy,Praveen N Reddy,match,initials,synthetic,no,train,0.94,0.9333333333333332,0.8,review,match,review,review
+p0005,V. Krishnan,Venkat Krishnan,match,initials,synthetic,no,holdout,0.9099999999999999,0.9,0.87,review,review,match,match
+p0006,M. Singh,Manpreet Singh,match,initials,synthetic,no,train,0.9099999999999999,0.9,0.71,review,review,review,review
+p0007,K. R. Iyer,Krishna R Iyer,match,initials,synthetic,no,train,0.94,0.9333333333333332,0.91,review,match,match,match
+p0008,S. Banerjee,Sourav Banerjee,match,initials,synthetic,no,holdout,0.9099999999999999,0.9,0.89,review,review,match,match
+p0009,N. Joshi,Nikhil Joshi,match,initials,synthetic,no,holdout,0.9099999999999999,0.9,0.86,review,review,match,match
+p0010,T. Nair,Thomas Nair,match,initials,synthetic,no,holdout,0.9099999999999999,0.9,0.9,review,review,match,match
+p0011,H. Mehta,Harsh Mehta,match,initials,synthetic,no,train,0.9099999999999999,0.9,0.84,review,review,review,review
+p0012,D. Chatterjee,Debashish Chatterjee,match,initials,synthetic,no,train,0.9099999999999999,0.9,0.89,review,review,match,match
+p0013,S. Kumar,Sunil Kumar,non_match,wrong_expansion,synthetic,no,train,0.9099999999999999,0.9,0.77,review,review,review,review
+p0014,R. Sharma,Ramesh Sharma,non_match,wrong_expansion,synthetic,no,train,0.9099999999999999,0.9,0.83,review,review,review,review
+p0015,A. Patel,Anil Patel,non_match,wrong_expansion,synthetic,no,train,0.9099999999999999,0.9,0.83,review,review,review,review
+p0016,P. Reddy,Pradeep Reddy,non_match,wrong_expansion,synthetic,no,holdout,0.9099999999999999,0.9,0.82,review,review,review,review
+p0017,V. Krishnan,Vijay Krishnan,non_match,wrong_expansion,synthetic,no,train,0.9099999999999999,0.9,0.82,review,review,review,review
+p0018,M. Singh,Mohan Singh,non_match,wrong_expansion,synthetic,no,train,0.9099999999999999,0.9,0.76,review,review,review,review
+p0019,K. Iyer,Karthik Iyer,non_match,wrong_expansion,synthetic,no,holdout,0.9099999999999999,0.9,0.91,review,review,match,match
+p0020,S. Banerjee,Sanjay Banerjee,non_match,wrong_expansion,synthetic,no,train,0.9099999999999999,0.9,0.87,review,review,match,match
+p0021,N. Joshi,Nitin Joshi,non_match,wrong_expansion,synthetic,no,train,0.9099999999999999,0.9,0.84,review,review,review,review
+p0022,H. Mehta,Hemant Mehta,non_match,wrong_expansion,synthetic,no,holdout,0.9099999999999999,0.9,0.87,review,review,match,match
+p0023,Kumar Suresh,Suresh Kumar,match,reorder,synthetic,no,train,1.0,1.0,0.91,match,match,match,match
+p0024,Sharma Priya,Priya Sharma,match,reorder,synthetic,no,train,1.0,1.0,0.96,match,match,match,match
+p0025,Patel Amitkumar,Amitkumar Patel,match,reorder,synthetic,no,train,1.0,1.0,0.97,match,match,match,match
+p0026,Reddy Venkat,Venkat Reddy,match,reorder,synthetic,no,train,1.0,1.0,0.89,match,match,match,match
+p0027,Singh Gurpreet,Gurpreet Singh,match,reorder,synthetic,no,train,1.0,1.0,0.94,match,match,match,match
+p0028,Iyer Ananya,Ananya Iyer,match,reorder,synthetic,no,train,1.0,1.0,0.95,match,match,match,match
+p0029,Nair Arun,Arun Nair,match,reorder,synthetic,no,holdout,1.0,1.0,0.85,match,match,review,match
+p0030,Mehta Kavita,Kavita Mehta,match,reorder,synthetic,no,train,1.0,1.0,0.95,match,match,match,match
+p0031,Joshi Rohan,Rohan Joshi,match,reorder,synthetic,no,holdout,1.0,1.0,0.96,match,match,match,match
+p0032,Banerjee Aditi,Aditi Banerjee,match,reorder,synthetic,no,holdout,1.0,1.0,0.97,match,match,match,match
+p0033,Gupta Neha,Neha Gupta,match,reorder,synthetic,no,train,1.0,1.0,0.97,match,match,match,match
+p0034,Chopra Viraj,Viraj Chopra,match,reorder,synthetic,no,holdout,1.0,1.0,0.96,match,match,match,match
+p0035,Mohammed Ali Khan,Mohammad Ali Khan,match,transliteration,synthetic,no,train,0.9833333333333334,0.9733333333333333,0.93,review,match,match,match
+p0036,Muhammad Yusuf,Mohammed Yusuf,match,transliteration,synthetic,no,train,0.925,0.96,0.91,review,match,match,match
+p0037,Mohammad Irfan,Muhammed Irfan,match,transliteration,synthetic,no,train,0.925,0.96,0.95,review,match,match,match
+p0038,Lakshmi Narayanan,Laxmi Narayanan,match,transliteration,synthetic,no,train,0.930952380952381,0.8285714285714286,0.93,review,review,match,match
+p0039,Lakshmi Devi,Laxmi Devi,match,transliteration,synthetic,no,train,0.9161904761904762,0.8285714285714286,0.94,review,review,match,match
+p0040,Poornima Rao,Purnima Rao,match,transliteration,synthetic,no,train,0.9410714285714286,0.9025000000000001,0.74,review,review,review,review
+p0041,Sreenath Menon,Srinath Menon,match,transliteration,synthetic,no,train,0.9476190476190476,0.9025000000000001,0.63,review,review,review,review
+p0042,Kumaraswamy,Kumarasvami,match,transliteration,synthetic,no,train,0.95,0.9600000000000001,0.88,review,match,match,match
+p0043,Ashok Kumar,Asok Kumar,match,transliteration,synthetic,no,holdout,0.9733333333333334,0.5,0.73,review,review,review,review
+p0044,Bharath Reddy,Bharat Reddy,match,transliteration,synthetic,no,holdout,0.9857142857142858,0.8942857142857144,0.69,review,review,review,review
+p0045,Deepak Sharma,Dipak Sharma,match,transliteration,synthetic,no,train,0.9227272727272726,0.8833333333333333,0.35,review,review,review,review
+p0046,Sheikh Abdullah,Shaikh Abdullah,match,transliteration,synthetic,no,train,0.9555555555555556,0.96,0.9,review,match,match,match
+p0047,Qureshi Imran,Kureshi Imran,match,transliteration,synthetic,no,holdout,0.9523809523809523,0.96,0.72,review,match,review,review
+p0048,Fathima Begum,Fatima Begum,match,transliteration,synthetic,no,holdout,0.9833333333333334,0.8942857142857144,0.88,review,review,match,match
+p0049,Yogeshwaran,Yogesvaran,match,transliteration,synthetic,no,holdout,0.9547619047619047,0.8833333333333333,0.81,review,review,review,review
+p0050,Rahul Rajesh Sharma,Rahul Sharma,match,middle_name,synthetic,no,holdout,0.8748663101604278,0.6666666666666666,0.84,review,review,review,review
+p0051,Ananya Priya Iyer,Ananya Iyer,match,middle_name,synthetic,no,train,0.8933333333333334,0.6666666666666666,0.88,review,review,match,match
+p0052,Vikram Suresh Patel,Vikram Patel,match,middle_name,synthetic,no,train,0.893048128342246,0.6666666666666666,0.84,review,review,review,review
+p0053,Sneha Ramesh Kulkarni,Sneha Kulkarni,match,middle_name,synthetic,no,train,0.8906882591093117,0.6666666666666666,0.84,review,review,review,review
+p0054,Amitabh Bachchan,Amitabh Harivansh Bachchan,match,middle_name,synthetic,no,train,0.885,0.6666666666666666,0.97,review,review,match,match
+p0055,Priya Sharma,Priya Devi Sharma,match,middle_name,synthetic,no,train,0.9466666666666667,0.6666666666666666,0.83,review,review,review,review
+p0056,Arjun Das,Arjun Kumar Das,match,middle_name,synthetic,no,holdout,0.8980769230769231,0.6666666666666666,0.85,review,review,review,review
+p0057,Meera Nair,Meera Lakshmi Nair,match,middle_name,synthetic,no,train,0.8902777777777778,0.6666666666666666,0.86,review,review,match,match
+p0058,Sanjay Dutt,Sanjay Balraj Dutt,match,middle_name,synthetic,no,holdout,0.925,0.6666666666666666,0.95,review,review,match,match
+p0059,Kavya Reddy,Kavya S Reddy,match,middle_name,synthetic,no,train,0.9818181818181818,0.6666666666666666,0.83,review,review,review,review
+p0060,Smt. Priya Sharma,Priya Sharma,match,honorifics,synthetic,no,train,1.0,1.0,0.97,match,match,match,match
+p0061,Shri Ramesh Kumar,Ramesh Kumar,match,honorifics,synthetic,no,train,1.0,1.0,0.96,match,match,match,match
+p0062,Kumari Ananya Iyer,Ananya Iyer,match,honorifics,synthetic,no,train,1.0,1.0,0.91,match,match,match,match
+p0063,Mr. Amit Patel,Amit Patel,match,honorifics,synthetic,no,holdout,1.0,1.0,0.97,match,match,match,match
+p0064,Mrs. Kavita Mehta,Kavita Mehta,match,honorifics,synthetic,no,train,1.0,1.0,0.97,match,match,match,match
+p0065,Dr. Nikhil Joshi,Nikhil Joshi,match,honorifics,synthetic,no,train,1.0,1.0,0.95,match,match,match,match
+p0066,Shree Venkat Reddy,Venkat Reddy,match,honorifics,synthetic,no,holdout,1.0,1.0,0.91,match,match,match,match
+p0067,Smt Kavitha Nair,Kavitha Nair,match,honorifics,synthetic,no,holdout,1.0,1.0,0.96,match,match,match,match
+p0068,Md. Irfan Khan,Irfan Khan,match,honorifics,synthetic,no,train,1.0,1.0,0.92,match,match,match,match
+p0069,Late Ramesh Gupta,Ramesh Gupta,match,honorifics,synthetic,no,train,1.0,1.0,0.85,match,match,review,match
+p0070,Ram Kumar,Ramkumar,match,compound,synthetic,no,train,1.0,1.0,0.93,match,match,match,match
+p0071,Suresh Kumar,Sureshkumar,match,compound,synthetic,no,train,1.0,1.0,0.95,match,match,match,match
+p0072,Rajesh Kumar Sharma,Rajeshkumar Sharma,match,compound,synthetic,no,holdout,1.0,1.0,0.92,match,match,match,match
+p0073,Venkatraman Iyer,Venkat Raman Iyer,match,compound,synthetic,no,train,1.0,1.0,0.78,match,match,review,match
+p0074,Subramanian Pillai,Subra Manian Pillai,match,compound,synthetic,no,holdout,1.0,1.0,0.77,match,match,review,match
+p0075,Krishnamurthy Rao,Krishna Murthy Rao,match,compound,synthetic,no,train,1.0,1.0,0.88,match,match,match,match
+p0076,Anil Kumar,Anilkumar,match,compound,synthetic,no,holdout,1.0,1.0,0.94,match,match,match,match
+p0077,Santosh Kumar,Santoshkumar,match,compound,synthetic,no,train,1.0,1.0,0.94,match,match,match,match
+p0078,Ravi Shankar,Ravishankar,match,compound,synthetic,no,train,1.0,1.0,0.86,match,match,match,match
+p0079,Hari Prasad,Hariprasad,match,compound,synthetic,no,holdout,1.0,1.0,0.9,match,match,match,match
+p0080,Gopal Krishna,Gopalkrishna,match,compound,synthetic,no,train,1.0,1.0,0.92,match,match,match,match
+p0081,Nanda Kishore,Nandakishore,match,compound,synthetic,no,train,1.0,1.0,0.93,match,match,match,match
+p0082,Rahul Sharma S/O Rajesh Sharma,Rahul Sharma,match,so_line,synthetic,no,train,1.0,1.0,0.9,match,match,match,match
+p0083,Priya Iyer D/O Suresh Iyer,Priya Iyer,match,so_line,synthetic,no,train,1.0,1.0,0.88,match,match,match,match
+p0084,Kavita Mehta W/O Amit Mehta,Kavita Mehta,match,so_line,synthetic,no,train,1.0,1.0,0.93,match,match,match,match
+p0085,Amit Patel S/O Ramesh Patel,Amit Ramesh Patel,match,so_line,synthetic,no,train,0.8755555555555556,0.6666666666666666,0.92,review,review,match,match
+p0086,Suresh Kumar S/O Ram Kumar,Suresh Kumar,match,so_line,synthetic,no,train,1.0,1.0,0.9,match,match,match,match
+p0087,Ananya Reddy D/O Venkat Reddy,Ananya Reddy,match,so_line,synthetic,no,holdout,1.0,1.0,0.9,match,match,match,match
+p0088,Vikram Singh S/O Manpreet Singh,Vikram Singh,match,so_line,synthetic,no,holdout,1.0,1.0,0.83,match,match,review,match
+p0089,Neha Gupta D/O Sunil Gupta,Neha Gupta,match,so_line,synthetic,no,train,1.0,1.0,0.87,match,match,match,match
+p0090,Rahul Sharma S/O Rajesh Sharma,Rahul Sharma S/O Rajesh Sharma,match,so_line,synthetic,no,train,1.0,1.0,0.99,match,match,match,match
+p0091,Amit Patel S/O Ramesh Patel,Amitbhai Patel S/O Ramesh Patel,match,so_line,synthetic,no,holdout,1.0,0.5,0.84,match,review,review,review
+p0092,R. K. Narayan,Ramaswamy Krishnaswami Narayan,match,south_indian_initials,synthetic,no,holdout,0.8799999999999999,0.8666666666666667,0.96,review,review,match,match
+p0093,C. V. Menon,Chandrasekhar Venkatesh Menon,match,south_indian_initials,synthetic,no,train,0.8799999999999999,0.8666666666666667,0.89,review,review,match,match
+p0094,A. R. Krishnan,Ananthapadmanabha Ramaswamy Krishnan,match,south_indian_initials,synthetic,no,holdout,0.8799999999999999,0.8666666666666667,0.9,review,review,match,match
+p0095,K. J. Nambiar,Krishnan Joseph Nambiar,match,south_indian_initials,synthetic,no,train,0.8799999999999999,0.8666666666666667,0.92,review,review,match,match
+p0096,P. T. Nair,Padmanabhan Thankappan Nair,match,south_indian_initials,synthetic,no,train,0.8799999999999999,0.8666666666666667,0.92,review,review,match,match
+p0097,M. S. Pillai,Madhavan Subramanian Pillai,match,south_indian_initials,synthetic,no,train,0.8799999999999999,0.8666666666666667,0.9,review,review,match,match
+p0098,S. R. Iyer,Srinivasan Ramaswamy Iyer,match,south_indian_initials,synthetic,no,train,0.8799999999999999,0.8666666666666667,0.86,review,review,match,match
+p0099,V. V. S. Reddy,Venkata Vijaya Sai Reddy,match,south_indian_initials,synthetic,no,train,0.865,0.8500000000000001,0.89,review,review,match,match
+p0100,B. K. S. Rao,Balakrishna Kumar Srinivas Rao,match,south_indian_initials,synthetic,no,train,0.865,0.8500000000000001,0.87,review,review,match,match
+p0101,T. N. Sharma,Trivikram Narayana Sharma,match,south_indian_initials,synthetic,no,holdout,0.8799999999999999,0.8666666666666667,0.89,review,review,match,match
+p0102,Rajesh Kumar Sharma,Ramesh Kumar Sharma,non_match,hard_negative,synthetic,no,train,0.9703703703703704,0.6666666666666666,0.15,review,review,non_match,non_match
+p0103,Suresh Patel,Ramesh Patel,non_match,hard_negative,synthetic,no,train,0.8888888888888888,0.5,0.05,review,review,non_match,non_match
+p0104,Anil Kumar,Sunil Kumar,non_match,hard_negative,synthetic,no,holdout,0.8916666666666666,0.5,0.08,review,review,non_match,non_match
+p0105,Priya Sharma,Pooja Sharma,non_match,hard_negative,synthetic,no,train,0.8363636363636364,0.5,0.09,review,review,non_match,non_match
+p0106,Vikram Reddy,Vikrant Reddy,non_match,hard_negative,synthetic,no,train,0.9547619047619047,0.5,0.2,review,review,review,review
+p0107,Neha Gupta,Nisha Gupta,non_match,hard_negative,synthetic,no,train,0.9066666666666667,0.5,0.1,review,review,non_match,non_match
+p0108,Amit Joshi,Sumit Joshi,non_match,hard_negative,synthetic,no,holdout,0.8962962962962964,0.5,0.09,review,review,non_match,non_match
+p0109,Kavita Nair,Kavya Nair,non_match,hard_negative,synthetic,no,train,0.9377777777777778,0.5,0.25,review,review,review,review
+p0110,Rohan Mehta,Sohan Mehta,non_match,hard_negative,synthetic,no,holdout,0.9333333333333333,0.5,0.08,review,review,non_match,non_match
+p0111,Deepak Singh,Deepika Singh,non_match,hard_negative,synthetic,no,train,0.969047619047619,0.8942857142857144,0.08,review,review,non_match,non_match
+p0112,Nandan Rao,Nandini Rao,non_match,hard_negative,synthetic,no,train,0.9547619047619047,0.8942857142857144,0.08,review,review,non_match,non_match
+p0113,Sunil Iyer,Sunila Iyer,non_match,hard_negative,synthetic,no,holdout,0.9833333333333334,0.8833333333333333,0.15,review,review,non_match,non_match
+p0114,Karan Kapoor,Arjun Kapoor,non_match,hard_negative,synthetic,no,train,0.8666666666666667,0.5,0.04,review,review,non_match,non_match
+p0115,Rahul Dravid,Saurav Dravid,non_match,hard_negative,public,no,train,0.788888888888889,0.5,0.18,review,review,non_match,non_match
+p0116,Ajay Devgn,Abhay Devgn,non_match,hard_negative,public,no,holdout,0.9066666666666667,0.5,0.13,review,review,non_match,non_match
+p0117,Manoj Bajpayee,Manoj Tiwari,non_match,hard_negative,public,no,holdout,0.7152777777777778,0.5,0.08,review,review,non_match,non_match
+p0118,Ravi Teja,Ravi Shankar,non_match,hard_negative,synthetic,no,train,0.7321428571428571,0.5,0.21,review,review,review,review
+p0119,Sanjay Leela,Sanjay Dutt,non_match,hard_negative,synthetic,no,train,0.8290909090909091,0.5,0.05,review,review,non_match,non_match
+p0120,Alia Bhatt,Pooja Bhatt,non_match,hard_negative,public,no,train,0.7416666666666667,0.5,0.03,review,review,non_match,non_match
+p0121,Madhuri Dixit,Konkona Sen Sharma,non_match,hard_negative,public,no,train,0.3819444444444444,0.0,0.02,review,non_match,non_match,non_match
+p0122,Asha Kumar,Nisha Kumar,non_match,hard_negative,synthetic,no,holdout,0.8916666666666666,0.5,0.06,review,review,non_match,non_match
+p0123,Farhan Khan,Imran Khan,non_match,hard_negative,synthetic,no,holdout,0.7944444444444445,0.5,0.05,review,review,non_match,non_match
+p0124,Geeta Reddy,Seeta Reddy,non_match,hard_negative,synthetic,no,train,0.9333333333333333,0.5,0.18,review,review,non_match,non_match
+p0125,Harish Rao,Girish Rao,non_match,hard_negative,synthetic,no,train,0.8472222222222221,0.5,0.09,review,review,non_match,non_match
+p0126,Ishita Shah,Ishaan Shah,non_match,hard_negative,synthetic,no,holdout,0.9222222222222222,0.5,0.06,review,review,non_match,non_match
+p0127,Jyoti Verma,Jyoti Yadav,non_match,hard_negative,synthetic,no,train,0.8514285714285714,0.5,0.15,review,review,non_match,non_match
+p0128,Komal Jain,Kamal Jain,non_match,hard_negative,synthetic,no,holdout,0.94,0.9600000000000001,0.22,review,match,review,review
+p0129,Lata Mangeshkar,Asha Bhosle,non_match,hard_negative,public,no,holdout,0.5523809523809524,0.0,0.02,review,non_match,non_match,non_match
+p0130,Mahatma Gandhi,Mohandas Karamchand Gandhi,match,public_variant,public,no,holdout,0.6965811965811967,0.3333333333333333,0.99,review,review,match,match
+p0131,Sachin Tendulkar,Sachin R Tendulkar,match,public_variant,public,no,train,0.9874999999999999,0.6666666666666666,0.97,review,review,match,match
+p0132,A. P. J. Abdul Kalam,Avul Pakir Jainulabdeen Abdul Kalam,match,public_variant,public,no,holdout,0.892,0.8800000000000001,0.98,review,review,match,match
+p0133,Rabindranath Tagore,Rabindra Nath Tagore,match,public_variant,public,no,train,1.0,1.0,0.98,match,match,match,match
+p0134,Satyajit Ray,Satyajit Kumar Ray,match,public_variant,public,no,train,0.9193181818181818,0.6666666666666666,0.83,review,review,review,review
+p0135,Viswanathan Anand,Vishwanathan Anand,match,public_variant,public,no,train,0.9584595959595958,0.5,0.94,review,review,match,match
+p0136,M. F. Husain,Maqbool Fida Husain,match,public_variant,public,no,train,0.8799999999999999,0.8666666666666667,0.97,review,review,match,match
+p0137,Lata Mangeshkar,Lata Dinanath Mangeshkar,match,public_variant,public,no,train,0.8701298701298701,0.6666666666666666,0.96,review,review,match,match
+p0138,Rahul Sharma,Priya Iyer,non_match,easy_negative,synthetic,no,train,0.5353535353535354,0.0,0.02,review,non_match,non_match,non_match
+p0139,Amit Patel,Kavita Nair,non_match,easy_negative,synthetic,no,holdout,0.6166666666666667,0.0,0.02,review,non_match,non_match,non_match
+p0140,Suresh Kumar,Ananya Reddy,non_match,easy_negative,synthetic,no,train,0.5166666666666667,0.0,0.02,review,non_match,non_match,non_match
+p0141,Vikram Singh,Meera Joshi,non_match,easy_negative,synthetic,no,train,0.5848484848484848,0.0,0.02,review,non_match,non_match,non_match
+p0142,Nikhil Gupta,Fatima Khan,non_match,easy_negative,synthetic,no,holdout,0.5944444444444444,0.0,0.02,review,non_match,non_match,non_match
+p0143,Arjun Das,Pooja Mehta,non_match,easy_negative,synthetic,no,train,0.44722222222222224,0.0,0.02,review,non_match,non_match,non_match
+p0144,Rohan Kapoor,Sneha Pillai,non_match,easy_negative,synthetic,no,train,0.5222222222222221,0.0,0.02,review,non_match,non_match,non_match
+p0145,Deepak Verma,Anjali Rao,non_match,easy_negative,synthetic,no,holdout,0.5353535353535354,0.0,0.02,review,non_match,non_match,non_match
+p0146,Manish Tiwari,Divya Menon,non_match,easy_negative,synthetic,no,train,0.5777777777777778,0.0,0.02,review,non_match,non_match,non_match
+p0147,Karan Malhotra,Shreya Ghosh,non_match,easy_negative,synthetic,no,train,0.5638888888888889,0.0,0.03,review,non_match,non_match,non_match
+p0148,Bobby Deol,Vijay Singh Deol,match,ambiguous_nickname,synthetic,yes,train,0.6375661375661376,0.3333333333333333,0.5,review,review,review,review
+p0149,Raju,Rajesh Kumar,match,ambiguous_nickname,synthetic,yes,train,0.8515151515151516,0.0,0.49,review,non_match,review,review
+p0150,Guddu Sharma,Gaurav Sharma,match,ambiguous_nickname,synthetic,yes,train,0.788888888888889,0.5,0.19,review,review,non_match,non_match
+p0151,Bunty Singh,Balwant Singh,match,ambiguous_nickname,synthetic,yes,holdout,0.8400000000000001,0.5,0.17,review,review,non_match,non_match
+p0152,Pinky Patel,Priyanka Patel,match,ambiguous_nickname,synthetic,yes,holdout,0.91375,0.5,0.17,review,review,non_match,non_match
+p0153,Sonu Nigam,Ashok Nigam,match,ambiguous_nickname,synthetic,yes,train,0.825925925925926,0.5,0.06,review,review,non_match,non_match
+p0154,Harishchandra Prasad,Harish Chandra Prasad,match,transliteration,synthetic,no,train,1.0,1.0,0.8,match,match,review,match
+p0155,Om Prakash,Omprakash,match,transliteration,synthetic,no,train,1.0,1.0,0.93,match,match,match,match
+p0156,Chandra Sekhar,Chandrasekhar,match,transliteration,synthetic,no,train,1.0,1.0,0.88,match,match,match,match
+p0157,Jagdish Prasad,Jagdishprasad,match,transliteration,synthetic,no,holdout,1.0,1.0,0.92,match,match,match,match
+p0158,Balakrishna,Bala Krishna,match,transliteration,synthetic,no,train,1.0,1.0,0.91,match,match,match,match
+p0159,Surya Narayana,Suryanarayana,match,transliteration,synthetic,no,train,1.0,1.0,0.93,match,match,match,match
+p0160,Padma Lakshmi,Padmalakshmi,match,transliteration,synthetic,no,train,1.0,1.0,0.91,match,match,match,match
+p0161,Uma Devi,Umadevi,match,transliteration,synthetic,no,train,1.0,1.0,0.83,match,match,review,match
+p0162,Shanti Bai,Shanthi Bai,match,transliteration,synthetic,no,train,0.9857142857142858,0.8942857142857144,0.89,review,review,match,match
+p0163,Ganesh Rao,Ganesha Rao,match,transliteration,synthetic,no,train,0.9857142857142858,0.8942857142857144,0.64,review,review,review,review
+p0164,Bhavesh Shah,Bhavesh Kumar Shah,match,transliteration,synthetic,no,holdout,0.9193181818181818,0.6666666666666666,0.87,review,review,match,match
+p0165,Chirag Jain,Chiragkumar Jain,match,transliteration,synthetic,no,holdout,0.9545454545454546,0.5,0.85,review,review,review,review
+p0166,Dinesh Yadav,Dinesh Kumar Yadav,match,transliteration,synthetic,no,holdout,0.9011363636363637,0.6666666666666666,0.8,review,review,review,review
+p0167,Esha Gupta,Eesha Gupta,match,transliteration,synthetic,no,train,0.97,0.868,0.63,review,review,review,review
+p0168,Firoz Khan,Firoze Khan,match,transliteration,synthetic,no,train,0.9833333333333334,0.8833333333333333,0.79,review,review,review,review
+p0169,Gaurav Bansal,Gourav Bansal,match,transliteration,synthetic,no,train,0.95,0.96,0.6,review,match,review,review
+p0170,Hemant Chauhan,Hemanta Chauhan,match,transliteration,synthetic,no,holdout,0.9857142857142858,0.8942857142857144,0.55,review,review,review,review
+p0171,Indira Joshi,Indiraa Joshi,match,transliteration,synthetic,no,train,0.9857142857142858,0.8942857142857144,0.75,review,review,review,review
+p0172,Jatin Malhotra,Jateen Malhotra,match,transliteration,synthetic,no,train,0.9487179487179487,0.8833333333333333,0.31,review,review,review,review
+p0173,Kirti Sanon,Kirthy Sanon,match,transliteration,synthetic,no,train,0.9466666666666668,0.8833333333333333,0.85,review,review,review,review
+p0174,Bhavesh Shah,Bhavin Shah,non_match,hard_negative,synthetic,no,train,0.9238095238095239,0.5,0.15,review,review,non_match,non_match
+p0175,Chirag Jain,Chirayu Jain,non_match,hard_negative,synthetic,no,train,0.9547619047619047,0.5,0.26,review,review,review,review
+p0176,Dinesh Yadav,Dinesh Yadava,non_match,hard_negative,synthetic,no,train,0.9833333333333334,0.8833333333333333,0.63,review,review,review,review
+p0177,Esha Gupta,Isha Singh,non_match,hard_negative,synthetic,no,train,0.6296296296296297,0.46,0.09,review,review,non_match,non_match
+p0178,Firoz Khan,Farooq Khan,non_match,hard_negative,synthetic,no,train,0.865,0.5,0.15,review,review,non_match,non_match
+p0179,Gaurav Bansal,Saurav Bansal,non_match,hard_negative,synthetic,no,train,0.9444444444444444,0.5,0.13,review,review,non_match,non_match
+p0180,Hemant Chauhan,Hemanth Reddy,non_match,hard_negative,synthetic,no,train,0.8243589743589744,0.3942857142857143,0.09,review,review,non_match,non_match
+p0181,Indira Joshi,Indira Gandhi,non_match,hard_negative,public,no,train,0.8787878787878788,0.5,0.07,review,review,non_match,non_match
+p0182,Jatin Malhotra,Jatin Sapru,non_match,hard_negative,synthetic,no,holdout,0.8476923076923077,0.5,0.11,review,review,non_match,non_match
+p0183,Kirti Sanon,Kriti Kharbanda,non_match,hard_negative,public,no,train,0.7403703703703703,0.4600000000000001,0.04,review,review,non_match,non_match
+p0184,Lakshman Rao,Lakshmi Rao,non_match,hard_negative,synthetic,no,train,0.9607142857142857,0.5,0.14,review,review,non_match,non_match
+p0185,Mohan Das,Mahatma Das,non_match,hard_negative,synthetic,no,train,0.7825396825396824,0.5,0.73,review,review,review,review
+p0186,Naveen Patnaik,Naveen Kumar,non_match,hard_negative,public,no,train,0.834965034965035,0.5,0.22,review,review,review,review
+p0187,Omar Abdullah,Farooq Abdullah,non_match,hard_negative,public,no,holdout,0.8704906204906204,0.5,0.04,review,review,non_match,non_match
+p0188,Pankaj Tripathi,Pankaj Kapur,non_match,hard_negative,public,no,train,0.86998556998557,0.5,0.04,review,review,non_match,non_match
+p0189,Qamar Jahan,Qamar Ali,non_match,hard_negative,synthetic,no,holdout,0.87,0.5,0.19,review,review,non_match,non_match
+p0190,Rishi Kapoor,Ranbir Kapoor,non_match,hard_negative,public,no,train,0.788888888888889,0.5,0.02,review,review,non_match,non_match
+p0191,Sridevi Kapoor,Janhvi Kapoor,non_match,hard_negative,public,no,train,0.7698412698412698,0.5,0.02,review,review,non_match,non_match
+p0192,Tiger Shroff,Jackie Shroff,non_match,hard_negative,public,no,train,0.7563131313131314,0.5,0.03,review,review,non_match,non_match
+p0193,Uday Chopra,Aditya Chopra,non_match,hard_negative,public,no,train,0.8194444444444444,0.5,0.02,review,review,non_match,non_match
+p0194,Sharma Rahul,Sharma Rohan,non_match,hard_negative,synthetic,no,holdout,0.905050505050505,0.5,0.06,review,review,non_match,non_match
+p0195,Patel Suresh,Patel Ramesh,non_match,hard_negative,synthetic,no,train,0.905050505050505,0.5,0.04,review,review,non_match,non_match
+p0196,Reddy Anil,Reddy Sunil,non_match,hard_negative,synthetic,no,train,0.9377777777777778,0.5,0.06,review,review,non_match,non_match
+p0197,Iyer Meera,Iyer Meena,non_match,hard_negative,synthetic,no,train,0.9555555555555556,0.5,0.24,review,review,review,review
+p0198,Nair Arun,Nair Varun,non_match,hard_negative,synthetic,no,holdout,0.9777777777777777,0.5,0.13,review,review,non_match,non_match
+p0199,Gupta Neha,Gupta Nisha,non_match,hard_negative,synthetic,no,train,0.9377777777777778,0.5,0.07,review,review,non_match,non_match
+p0200,Mehta Rohan,Mehta Sohan,non_match,hard_negative,synthetic,no,train,0.96,0.5,0.07,review,review,non_match,non_match

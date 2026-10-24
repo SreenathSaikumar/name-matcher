@@ -1,0 +1,201 @@
+id,name_a,name_b,label,category,source,note,ambiguous
+p0001,S. Kumar,Suresh Kumar,match,initials,synthetic,initial vs expanded,no
+p0002,R. K. Sharma,Ravi Kumar Sharma,match,initials,synthetic,two initials,no
+p0003,A. Patel,Amit Patel,match,initials,synthetic,,no
+p0004,P. N. Reddy,Praveen N Reddy,match,initials,synthetic,,no
+p0005,V. Krishnan,Venkat Krishnan,match,initials,synthetic,,no
+p0006,M. Singh,Manpreet Singh,match,initials,synthetic,,no
+p0007,K. R. Iyer,Krishna R Iyer,match,initials,synthetic,,no
+p0008,S. Banerjee,Sourav Banerjee,match,initials,synthetic,,no
+p0009,N. Joshi,Nikhil Joshi,match,initials,synthetic,,no
+p0010,T. Nair,Thomas Nair,match,initials,synthetic,,no
+p0011,H. Mehta,Harsh Mehta,match,initials,synthetic,,no
+p0012,D. Chatterjee,Debashish Chatterjee,match,initials,synthetic,,no
+p0013,S. Kumar,Sunil Kumar,non_match,wrong_expansion,synthetic,same initial different given,no
+p0014,R. Sharma,Ramesh Sharma,non_match,wrong_expansion,synthetic,could be Ravi not Ramesh,no
+p0015,A. Patel,Anil Patel,non_match,wrong_expansion,synthetic,,no
+p0016,P. Reddy,Pradeep Reddy,non_match,wrong_expansion,synthetic,,no
+p0017,V. Krishnan,Vijay Krishnan,non_match,wrong_expansion,synthetic,,no
+p0018,M. Singh,Mohan Singh,non_match,wrong_expansion,synthetic,,no
+p0019,K. Iyer,Karthik Iyer,non_match,wrong_expansion,synthetic,,no
+p0020,S. Banerjee,Sanjay Banerjee,non_match,wrong_expansion,synthetic,,no
+p0021,N. Joshi,Nitin Joshi,non_match,wrong_expansion,synthetic,,no
+p0022,H. Mehta,Hemant Mehta,non_match,wrong_expansion,synthetic,,no
+p0023,Kumar Suresh,Suresh Kumar,match,reorder,synthetic,,no
+p0024,Sharma Priya,Priya Sharma,match,reorder,synthetic,,no
+p0025,Patel Amitkumar,Amitkumar Patel,match,reorder,synthetic,,no
+p0026,Reddy Venkat,Venkat Reddy,match,reorder,synthetic,,no
+p0027,Singh Gurpreet,Gurpreet Singh,match,reorder,synthetic,,no
+p0028,Iyer Ananya,Ananya Iyer,match,reorder,synthetic,,no
+p0029,Nair Arun,Arun Nair,match,reorder,synthetic,,no
+p0030,Mehta Kavita,Kavita Mehta,match,reorder,synthetic,,no
+p0031,Joshi Rohan,Rohan Joshi,match,reorder,synthetic,,no
+p0032,Banerjee Aditi,Aditi Banerjee,match,reorder,synthetic,,no
+p0033,Gupta Neha,Neha Gupta,match,reorder,synthetic,,no
+p0034,Chopra Viraj,Viraj Chopra,match,reorder,synthetic,,no
+p0035,Mohammed Ali Khan,Mohammad Ali Khan,match,transliteration,synthetic,Mohammed variants,no
+p0036,Muhammad Yusuf,Mohammed Yusuf,match,transliteration,synthetic,,no
+p0037,Mohammad Irfan,Muhammed Irfan,match,transliteration,synthetic,,no
+p0038,Lakshmi Narayanan,Laxmi Narayanan,match,transliteration,synthetic,ksh/x,no
+p0039,Lakshmi Devi,Laxmi Devi,match,transliteration,synthetic,,no
+p0040,Poornima Rao,Purnima Rao,match,transliteration,synthetic,oo/u,no
+p0041,Sreenath Menon,Srinath Menon,match,transliteration,synthetic,ee/i,no
+p0042,Kumaraswamy,Kumarasvami,match,transliteration,synthetic,v/w,no
+p0043,Ashok Kumar,Asok Kumar,match,transliteration,synthetic,,no
+p0044,Bharath Reddy,Bharat Reddy,match,transliteration,synthetic,,no
+p0045,Deepak Sharma,Dipak Sharma,match,transliteration,synthetic,,no
+p0046,Sheikh Abdullah,Shaikh Abdullah,match,transliteration,synthetic,,no
+p0047,Qureshi Imran,Kureshi Imran,match,transliteration,synthetic,q/k,no
+p0048,Fathima Begum,Fatima Begum,match,transliteration,synthetic,ph/f-ish,no
+p0049,Yogeshwaran,Yogesvaran,match,transliteration,synthetic,,no
+p0050,Rahul Rajesh Sharma,Rahul Sharma,match,middle_name,synthetic,dropped middle,no
+p0051,Ananya Priya Iyer,Ananya Iyer,match,middle_name,synthetic,,no
+p0052,Vikram Suresh Patel,Vikram Patel,match,middle_name,synthetic,,no
+p0053,Sneha Ramesh Kulkarni,Sneha Kulkarni,match,middle_name,synthetic,,no
+p0054,Amitabh Bachchan,Amitabh Harivansh Bachchan,match,middle_name,synthetic,extra middle,no
+p0055,Priya Sharma,Priya Devi Sharma,match,middle_name,synthetic,,no
+p0056,Arjun Das,Arjun Kumar Das,match,middle_name,synthetic,,no
+p0057,Meera Nair,Meera Lakshmi Nair,match,middle_name,synthetic,,no
+p0058,Sanjay Dutt,Sanjay Balraj Dutt,match,middle_name,synthetic,,no
+p0059,Kavya Reddy,Kavya S Reddy,match,middle_name,synthetic,,no
+p0060,Smt. Priya Sharma,Priya Sharma,match,honorifics,synthetic,,no
+p0061,Shri Ramesh Kumar,Ramesh Kumar,match,honorifics,synthetic,,no
+p0062,Kumari Ananya Iyer,Ananya Iyer,match,honorifics,synthetic,,no
+p0063,Mr. Amit Patel,Amit Patel,match,honorifics,synthetic,,no
+p0064,Mrs. Kavita Mehta,Kavita Mehta,match,honorifics,synthetic,,no
+p0065,Dr. Nikhil Joshi,Nikhil Joshi,match,honorifics,synthetic,,no
+p0066,Shree Venkat Reddy,Venkat Reddy,match,honorifics,synthetic,,no
+p0067,Smt Kavitha Nair,Kavitha Nair,match,honorifics,synthetic,,no
+p0068,Md. Irfan Khan,Irfan Khan,match,honorifics,synthetic,,no
+p0069,Late Ramesh Gupta,Ramesh Gupta,match,honorifics,synthetic,,no
+p0070,Ram Kumar,Ramkumar,match,compound,synthetic,,no
+p0071,Suresh Kumar,Sureshkumar,match,compound,synthetic,,no
+p0072,Rajesh Kumar Sharma,Rajeshkumar Sharma,match,compound,synthetic,,no
+p0073,Venkatraman Iyer,Venkat Raman Iyer,match,compound,synthetic,,no
+p0074,Subramanian Pillai,Subra Manian Pillai,match,compound,synthetic,,no
+p0075,Krishnamurthy Rao,Krishna Murthy Rao,match,compound,synthetic,,no
+p0076,Anil Kumar,Anilkumar,match,compound,synthetic,,no
+p0077,Santosh Kumar,Santoshkumar,match,compound,synthetic,,no
+p0078,Ravi Shankar,Ravishankar,match,compound,synthetic,,no
+p0079,Hari Prasad,Hariprasad,match,compound,synthetic,,no
+p0080,Gopal Krishna,Gopalkrishna,match,compound,synthetic,,no
+p0081,Nanda Kishore,Nandakishore,match,compound,synthetic,,no
+p0082,Rahul Sharma S/O Rajesh Sharma,Rahul Sharma,match,so_line,synthetic,relative on one side,no
+p0083,Priya Iyer D/O Suresh Iyer,Priya Iyer,match,so_line,synthetic,,no
+p0084,Kavita Mehta W/O Amit Mehta,Kavita Mehta,match,so_line,synthetic,,no
+p0085,Amit Patel S/O Ramesh Patel,Amit Ramesh Patel,match,so_line,synthetic,father as middle,no
+p0086,Suresh Kumar S/O Ram Kumar,Suresh Kumar,match,so_line,synthetic,,no
+p0087,Ananya Reddy D/O Venkat Reddy,Ananya Reddy,match,so_line,synthetic,,no
+p0088,Vikram Singh S/O Manpreet Singh,Vikram Singh,match,so_line,synthetic,,no
+p0089,Neha Gupta D/O Sunil Gupta,Neha Gupta,match,so_line,synthetic,,no
+p0090,Rahul Sharma S/O Rajesh Sharma,Rahul Sharma S/O Rajesh Sharma,match,so_line,synthetic,identical relative,no
+p0091,Amit Patel S/O Ramesh Patel,Amitbhai Patel S/O Ramesh Patel,match,so_line,synthetic,given variant,no
+p0092,R. K. Narayan,Ramaswamy Krishnaswami Narayan,match,south_indian_initials,synthetic,,no
+p0093,C. V. Menon,Chandrasekhar Venkatesh Menon,match,south_indian_initials,synthetic,,no
+p0094,A. R. Krishnan,Ananthapadmanabha Ramaswamy Krishnan,match,south_indian_initials,synthetic,,no
+p0095,K. J. Nambiar,Krishnan Joseph Nambiar,match,south_indian_initials,synthetic,,no
+p0096,P. T. Nair,Padmanabhan Thankappan Nair,match,south_indian_initials,synthetic,,no
+p0097,M. S. Pillai,Madhavan Subramanian Pillai,match,south_indian_initials,synthetic,,no
+p0098,S. R. Iyer,Srinivasan Ramaswamy Iyer,match,south_indian_initials,synthetic,,no
+p0099,V. V. S. Reddy,Venkata Vijaya Sai Reddy,match,south_indian_initials,synthetic,,no
+p0100,B. K. S. Rao,Balakrishna Kumar Srinivas Rao,match,south_indian_initials,synthetic,,no
+p0101,T. N. Sharma,Trivikram Narayana Sharma,match,south_indian_initials,synthetic,,no
+p0102,Rajesh Kumar Sharma,Ramesh Kumar Sharma,non_match,hard_negative,synthetic,sibling-like,no
+p0103,Suresh Patel,Ramesh Patel,non_match,hard_negative,synthetic,,no
+p0104,Anil Kumar,Sunil Kumar,non_match,hard_negative,synthetic,,no
+p0105,Priya Sharma,Pooja Sharma,non_match,hard_negative,synthetic,,no
+p0106,Vikram Reddy,Vikrant Reddy,non_match,hard_negative,synthetic,,no
+p0107,Neha Gupta,Nisha Gupta,non_match,hard_negative,synthetic,,no
+p0108,Amit Joshi,Sumit Joshi,non_match,hard_negative,synthetic,,no
+p0109,Kavita Nair,Kavya Nair,non_match,hard_negative,synthetic,,no
+p0110,Rohan Mehta,Sohan Mehta,non_match,hard_negative,synthetic,,no
+p0111,Deepak Singh,Deepika Singh,non_match,hard_negative,synthetic,gender near,no
+p0112,Nandan Rao,Nandini Rao,non_match,hard_negative,synthetic,gender phonetic,no
+p0113,Sunil Iyer,Sunila Iyer,non_match,hard_negative,synthetic,syllable trap,no
+p0114,Karan Kapoor,Arjun Kapoor,non_match,hard_negative,synthetic,common surname,no
+p0115,Rahul Dravid,Saurav Dravid,non_match,hard_negative,public,,no
+p0116,Ajay Devgn,Abhay Devgn,non_match,hard_negative,public,,no
+p0117,Manoj Bajpayee,Manoj Tiwari,non_match,hard_negative,public,same given different surname,no
+p0118,Ravi Teja,Ravi Shankar,non_match,hard_negative,synthetic,,no
+p0119,Sanjay Leela,Sanjay Dutt,non_match,hard_negative,synthetic,,no
+p0120,Alia Bhatt,Pooja Bhatt,non_match,hard_negative,public,related public different people,no
+p0121,Madhuri Dixit,Konkona Sen Sharma,non_match,hard_negative,public,unrelated,no
+p0122,Asha Kumar,Nisha Kumar,non_match,hard_negative,synthetic,,no
+p0123,Farhan Khan,Imran Khan,non_match,hard_negative,synthetic,,no
+p0124,Geeta Reddy,Seeta Reddy,non_match,hard_negative,synthetic,,no
+p0125,Harish Rao,Girish Rao,non_match,hard_negative,synthetic,,no
+p0126,Ishita Shah,Ishaan Shah,non_match,hard_negative,synthetic,,no
+p0127,Jyoti Verma,Jyoti Yadav,non_match,hard_negative,synthetic,,no
+p0128,Komal Jain,Kamal Jain,non_match,hard_negative,synthetic,,no
+p0129,Lata Mangeshkar,Asha Bhosle,non_match,hard_negative,public,,no
+p0130,Mahatma Gandhi,Mohandas Karamchand Gandhi,match,public_variant,public,public expanded,no
+p0131,Sachin Tendulkar,Sachin R Tendulkar,match,public_variant,public,,no
+p0132,A. P. J. Abdul Kalam,Avul Pakir Jainulabdeen Abdul Kalam,match,public_variant,public,,no
+p0133,Rabindranath Tagore,Rabindra Nath Tagore,match,public_variant,public,,no
+p0134,Satyajit Ray,Satyajit Kumar Ray,match,public_variant,public,,no
+p0135,Viswanathan Anand,Vishwanathan Anand,match,public_variant,public,v/w,no
+p0136,M. F. Husain,Maqbool Fida Husain,match,public_variant,public,,no
+p0137,Lata Mangeshkar,Lata Dinanath Mangeshkar,match,public_variant,public,,no
+p0138,Rahul Sharma,Priya Iyer,non_match,easy_negative,synthetic,,no
+p0139,Amit Patel,Kavita Nair,non_match,easy_negative,synthetic,,no
+p0140,Suresh Kumar,Ananya Reddy,non_match,easy_negative,synthetic,,no
+p0141,Vikram Singh,Meera Joshi,non_match,easy_negative,synthetic,,no
+p0142,Nikhil Gupta,Fatima Khan,non_match,easy_negative,synthetic,,no
+p0143,Arjun Das,Pooja Mehta,non_match,easy_negative,synthetic,,no
+p0144,Rohan Kapoor,Sneha Pillai,non_match,easy_negative,synthetic,,no
+p0145,Deepak Verma,Anjali Rao,non_match,easy_negative,synthetic,,no
+p0146,Manish Tiwari,Divya Menon,non_match,easy_negative,synthetic,,no
+p0147,Karan Malhotra,Shreya Ghosh,non_match,easy_negative,synthetic,,no
+p0148,Bobby Deol,Vijay Singh Deol,match,ambiguous_nickname,synthetic,nickname vs formal,yes
+p0149,Raju,Rajesh Kumar,match,ambiguous_nickname,synthetic,short nickname,yes
+p0150,Guddu Sharma,Gaurav Sharma,match,ambiguous_nickname,synthetic,,yes
+p0151,Bunty Singh,Balwant Singh,match,ambiguous_nickname,synthetic,,yes
+p0152,Pinky Patel,Priyanka Patel,match,ambiguous_nickname,synthetic,,yes
+p0153,Sonu Nigam,Ashok Nigam,match,ambiguous_nickname,synthetic,stage vs less clear,yes
+p0154,Harishchandra Prasad,Harish Chandra Prasad,match,transliteration,synthetic,,no
+p0155,Om Prakash,Omprakash,match,transliteration,synthetic,,no
+p0156,Chandra Sekhar,Chandrasekhar,match,transliteration,synthetic,,no
+p0157,Jagdish Prasad,Jagdishprasad,match,transliteration,synthetic,,no
+p0158,Balakrishna,Bala Krishna,match,transliteration,synthetic,,no
+p0159,Surya Narayana,Suryanarayana,match,transliteration,synthetic,,no
+p0160,Padma Lakshmi,Padmalakshmi,match,transliteration,synthetic,,no
+p0161,Uma Devi,Umadevi,match,transliteration,synthetic,,no
+p0162,Shanti Bai,Shanthi Bai,match,transliteration,synthetic,,no
+p0163,Ganesh Rao,Ganesha Rao,match,transliteration,synthetic,,no
+p0164,Bhavesh Shah,Bhavesh Kumar Shah,match,transliteration,synthetic,,no
+p0165,Chirag Jain,Chiragkumar Jain,match,transliteration,synthetic,,no
+p0166,Dinesh Yadav,Dinesh Kumar Yadav,match,transliteration,synthetic,,no
+p0167,Esha Gupta,Eesha Gupta,match,transliteration,synthetic,,no
+p0168,Firoz Khan,Firoze Khan,match,transliteration,synthetic,,no
+p0169,Gaurav Bansal,Gourav Bansal,match,transliteration,synthetic,,no
+p0170,Hemant Chauhan,Hemanta Chauhan,match,transliteration,synthetic,,no
+p0171,Indira Joshi,Indiraa Joshi,match,transliteration,synthetic,,no
+p0172,Jatin Malhotra,Jateen Malhotra,match,transliteration,synthetic,,no
+p0173,Kirti Sanon,Kirthy Sanon,match,transliteration,synthetic,,no
+p0174,Bhavesh Shah,Bhavin Shah,non_match,hard_negative,synthetic,,no
+p0175,Chirag Jain,Chirayu Jain,non_match,hard_negative,synthetic,,no
+p0176,Dinesh Yadav,Dinesh Yadava,non_match,hard_negative,synthetic,,no
+p0177,Esha Gupta,Isha Singh,non_match,hard_negative,synthetic,,no
+p0178,Firoz Khan,Farooq Khan,non_match,hard_negative,synthetic,,no
+p0179,Gaurav Bansal,Saurav Bansal,non_match,hard_negative,synthetic,,no
+p0180,Hemant Chauhan,Hemanth Reddy,non_match,hard_negative,synthetic,,no
+p0181,Indira Joshi,Indira Gandhi,non_match,hard_negative,public,,no
+p0182,Jatin Malhotra,Jatin Sapru,non_match,hard_negative,synthetic,,no
+p0183,Kirti Sanon,Kriti Kharbanda,non_match,hard_negative,public,,no
+p0184,Lakshman Rao,Lakshmi Rao,non_match,hard_negative,synthetic,,no
+p0185,Mohan Das,Mahatma Das,non_match,hard_negative,synthetic,,no
+p0186,Naveen Patnaik,Naveen Kumar,non_match,hard_negative,public,,no
+p0187,Omar Abdullah,Farooq Abdullah,non_match,hard_negative,public,,no
+p0188,Pankaj Tripathi,Pankaj Kapur,non_match,hard_negative,public,,no
+p0189,Qamar Jahan,Qamar Ali,non_match,hard_negative,synthetic,,no
+p0190,Rishi Kapoor,Ranbir Kapoor,non_match,hard_negative,public,,no
+p0191,Sridevi Kapoor,Janhvi Kapoor,non_match,hard_negative,public,,no
+p0192,Tiger Shroff,Jackie Shroff,non_match,hard_negative,public,,no
+p0193,Uday Chopra,Aditya Chopra,non_match,hard_negative,public,,no
+p0194,Sharma Rahul,Sharma Rohan,non_match,hard_negative,synthetic,reorder+near given,no
+p0195,Patel Suresh,Patel Ramesh,non_match,hard_negative,synthetic,reorder+near given,no
+p0196,Reddy Anil,Reddy Sunil,non_match,hard_negative,synthetic,reorder+near given,no
+p0197,Iyer Meera,Iyer Meena,non_match,hard_negative,synthetic,reorder+near given,no
+p0198,Nair Arun,Nair Varun,non_match,hard_negative,synthetic,reorder+near given,no
+p0199,Gupta Neha,Gupta Nisha,non_match,hard_negative,synthetic,reorder+near given,no
+p0200,Mehta Rohan,Mehta Sohan,non_match,hard_negative,synthetic,reorder+near given,no

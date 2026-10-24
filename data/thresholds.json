@@ -1,0 +1,17 @@
+{
+  "token_jw": {
+    "t_low": 0.2,
+    "t_high": 0.99
+  },
+  "indic_phonetic": {
+    "t_low": 0.2,
+    "t_high": 0.921
+  },
+  "jev": {
+    "t_low": 0.2,
+    "t_high": 0.851
+  },
+  "cascade": {
+    "rule": "locals agree \u2192 that band; else jev"
+  }
+}
